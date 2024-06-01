@@ -17,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -37,7 +40,9 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Java/ConsoleApp/student-management-system",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,7 +71,9 @@
       <workItem from="1707211551147" duration="313000" />
       <workItem from="1717184382926" duration="16589000" />
       <workItem from="1717202673446" duration="4546000" />
-      <workItem from="1717264054535" duration="546000" />
+      <workItem from="1717264054535" duration="1276000" />
+      <workItem from="1717266139770" duration="13000" />
+      <workItem from="1717266317180" duration="32000" />
     </task>
     <servers />
   </component>
