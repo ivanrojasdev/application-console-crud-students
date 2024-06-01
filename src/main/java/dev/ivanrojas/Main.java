@@ -7,7 +7,6 @@ public class Main {
   static ArregloEstudiantes arregloEstudiantes = new ArregloEstudiantes();
   static Scanner sc = new Scanner(System.in);
 
-
   public static void main(String[] args) {
     sc.useDelimiter("\n");
     int option = 0;
@@ -123,6 +122,4 @@ public class Main {
       System.out.println("No hay estudiantes registrados");
     }
   }
-
-
 }
